@@ -1,0 +1,32 @@
+body{
+	background-color: lightblue;
+}
+
+p {
+  color: blue;
+  font-size: 20px;
+  
+}
+h1 {
+  color: red;
+  font-size: 75px;
+  text-align: center;
+}
+
+h2 {
+	color: maroon;
+}
+h3 {
+	color: darkgreen;
+	text-decoration: underline;
+	font-family: cursive;
+	font-size: 32px;
+	
+
+}
+img {
+	border: 3px solid red;
+}
+article {
+	font-family: sans-serif;
+}

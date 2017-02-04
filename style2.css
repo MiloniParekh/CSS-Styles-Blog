@@ -1,0 +1,57 @@
+p {
+  color: red;
+  
+  font-style: italic;
+  font-weight: bolder;
+  
+}
+h1 {
+  color: orange;
+  font-weight: italic;
+  font-size: 75px;
+  font-family: cursive;
+  text-align: center;
+}
+body {
+	background: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBii4N8fP29VaHoinT-1oWEV0wndh4fFzishE3ADHJBRnkuP1_zQ) no-repeat;
+	background-size:1400px;
+	background-attachment: fixed; 
+	background-position: center;
+	margin: 30px; 
+	padding: 10px;
+}
+h2 {
+	color: purple;
+	font-size: 30px;
+}
+h3 {
+	color: red;
+	text-decoration: underline;
+	font-family: inherit;
+	font-size: 32px;
+	
+
+}
+img {
+	border: 5px solid blue;
+}
+article {
+	color: yellow;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+section h2 {
+	text-align: center;
+	text-decoration: underline;
+
+}
+th {
+	color: blue;
+	font-style: italic;
+	background-color: brown;
+	text-decoration: underline;
+}
+tr {
+	font-size: 15px;
+	color: red;
+}
